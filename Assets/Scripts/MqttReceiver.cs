@@ -12,7 +12,7 @@ public class MqttReceiver : MonoBehaviour
     private string brokerAddress = "artwall.cloud.shiftr.io";
     private int brokerPort = 1883;
     private string username = "artwall";
-    private string password = "ES8Z2FND42cLWiCV";
+    private string password = "********";
     private string topic1 = "player1/motion";
     private string topic2 = "player2/motion";
     private string topic3 = "player3/motion";
